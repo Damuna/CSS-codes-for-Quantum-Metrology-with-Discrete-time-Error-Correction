@@ -1,6 +1,6 @@
 # CSS-codes-for-Quantum-Metrology-with-Discrete-time-Error-Correction
 
-This repository contains the code to generate the plots and the numerical validation of the analytic formulas related to the paper: CSS codes for Quantum Metrology with Discrete-time Error Correction
+This repository contains the code to generate the plots and the numerical validation of the analytic formulas related to the paper: CSS codes for Quantum Metrology with Discrete-time Error Correction.
 
 ## Files
 
